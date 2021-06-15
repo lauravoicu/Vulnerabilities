@@ -18,6 +18,8 @@ Steps:
 
 - Topic modelling on the CVE descriptions. 
 
+- CVSS base scores prediction based on vulnerability description using text mining.
+
 
 ## Acknowledgments:
 
