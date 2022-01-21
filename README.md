@@ -1,8 +1,8 @@
-# Common Vulnerabilities and Exposures
+# Common Vulnerabilities Exposures
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voiculaura/)](https://www.linkedin.com/in/voiculaura/)
 
-The datasets used in this project are open source and freely available online. Common Vulnerabilities and Exposures (CVE) is a list of publicly disclosed information security vulnerabilities and exposures.
+The datasets used in this project are open source and freely available online. Common Vulnerabilities Exposures (CVE) is a list of publicly disclosed information security vulnerabilities and exposures.
 
 CVE was launched in 1999 by the MITRE corporation to identify and categorize vulnerabilities in software and firmware. CVE provides a free dictionary for organizations to improve their cyber security. MITRE is a nonprofit that operates federally funded research and development centers in the United States.
 
