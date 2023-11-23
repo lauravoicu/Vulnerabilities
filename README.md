@@ -1,4 +1,4 @@
-# Common Vulnerabilities Exposures
+# Vulnerabilities
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voiculaura/)](https://www.linkedin.com/in/voiculaura/)
 
@@ -6,7 +6,7 @@ The datasets used in this project are open source and freely available online. C
 
 CVE was launched in 1999 by the MITRE corporation to identify and categorize vulnerabilities in software and firmware. CVE provides a free dictionary for organizations to improve their cyber security. MITRE is a nonprofit that operates federally funded research and development centers in the United States.
 
-A CVE entry describes a known vulnerability or exposure. Each CVE entry contains a standard identifier number with status indicator (i.e. "CVE-1999-0067", "CVE-2014-12345", "CVE-2016-7654321"), a brief description and references related vulnerability reports and advisories. Each CVE ID is formatted as CVE-YYYY-NNNNN. The YYYY portion is the year the CVE ID was assigned or the year the vulnerability was made public. Unlike vulnerability databases, CVE entries do not include risk, impact fix or other technical information.
+A CVE entry describes a known vulnerability. Each CVE entry contains a standard identifier number with status indicator (i.e. "CVE-1999-0067", "CVE-2014-12345", "CVE-2016-7654321"), a brief description and references related vulnerability reports and advisories. Each CVE ID is formatted as CVE-YYYY-NNNNN. The YYYY portion is the year the CVE ID was assigned or the year the vulnerability was made public. Unlike vulnerability databases, CVE entries do not include risk, impact fix or other technical information.
 
 Steps:
 
